@@ -1,9 +1,9 @@
 package main
 
 import (
-	"./app/api/rest"
-	"./app/infrastructure"
 	"fmt"
+	"github.com/morteza-r/flexdb-server/app/api/rest"
+	"github.com/morteza-r/flexdb-server/app/infrastructure"
 )
 
 func main() {

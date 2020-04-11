@@ -1,9 +1,9 @@
 package rest
 
 import (
-	"../../application"
-	"./req"
 	"github.com/gin-gonic/gin"
+	"github.com/morteza-r/flexdb-server/app/api/rest/req"
+	"github.com/morteza-r/flexdb-server/app/application"
 	"net/http"
 )
 

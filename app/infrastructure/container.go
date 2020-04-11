@@ -1,9 +1,9 @@
 package infrastructure
 
 import (
-	"../application"
 	"github.com/golobby/container"
 	"github.com/morteza-r/flexdb"
+	"github.com/morteza-r/flexdb-server/app/application"
 )
 
 func SetUp() {

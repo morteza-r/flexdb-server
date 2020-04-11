@@ -1,9 +1,9 @@
 package rest
 
 import (
-	"../../application"
 	"github.com/gin-gonic/gin"
 	"github.com/golobby/container"
+	"github.com/morteza-r/flexdb-server/app/application"
 )
 
 func SetUp() (err error) {
