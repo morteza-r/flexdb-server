@@ -11,8 +11,8 @@ type QueryRequest struct {
 	Where     []flexdb.Where         `json:"where"`
 	WhereType string                 `json:"where_type"`
 	Order     flexdb.Order           `json:"order"`
-	Limit int    `json:"limit"`
-	Type  string `json:"type"`
+	Limit     int                    `json:"limit"`
+	Type      string                 `json:"type"`
 }
 
 func (qr *QueryRequest) GetDoc() (doc *flexdb.Doc, err error) {
