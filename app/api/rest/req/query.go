@@ -18,10 +18,10 @@ type QueryRequest struct {
 func (qr *QueryRequest) GetDoc() (doc *flexdb.Doc, err error) {
 	doc = flexdb.NewDoc()
 	for key, value := range qr.Doc {
-		err = doc.Set(key, value)
-		if err != nil {
-			return
-		}
+		_ = doc.Set(key, value)
+		//if err != nil {
+		//	return
+		//}
 	}
 
 	return
