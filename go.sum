@@ -41,6 +41,10 @@ github.com/morteza-r/flexdb v0.0.0-20200419070650-483553b061a6/go.mod h1:SSfC8F9
 github.com/morteza-r/flexdb v0.1.0-alpha h1:5Ww3RKwAwUpVAvb3WbS15+NvE7A8UIa/pacfdXXfxtg=
 github.com/morteza-r/flexdb v0.1.0-alpha/go.mod h1:SSfC8F9j66AMFcVLdfA+NpmSF8+VMDiFDqoIt4QCUWw=
 github.com/morteza-r/flexdb v0.1.2-alpha/go.mod h1:SSfC8F9j66AMFcVLdfA+NpmSF8+VMDiFDqoIt4QCUWw=
+github.com/morteza-r/flexdb v0.1.3-alpha h1:e2UGBjw7/0JA0Qt5bNlODrlvhsSY32SenOIQNQKL7Ws=
+github.com/morteza-r/flexdb v0.1.3-alpha/go.mod h1:SSfC8F9j66AMFcVLdfA+NpmSF8+VMDiFDqoIt4QCUWw=
+github.com/morteza-r/flexdb v0.1.4-alpha h1:E7q8L5XdML1ixG0nMcI2ZJa3XNnwcvLaCL/4zrRCKBw=
+github.com/morteza-r/flexdb v0.1.4-alpha/go.mod h1:SSfC8F9j66AMFcVLdfA+NpmSF8+VMDiFDqoIt4QCUWw=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
